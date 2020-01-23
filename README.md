@@ -10,9 +10,7 @@ https://docs.google.com/presentation/d/1A_yDsMh7ge6VIQyO-oNnXFnXGa0URI3V3L07s7UV
 ![some bugs but our both angles result](
 https://raw.githubusercontent.com/montanafowler/constellations/master/1%20Constellation%200.png)
 
-![just 90 degree angles]
-(https://raw.githubusercontent.com/montanafowler/constellations/master/2%20Constellation%201.png)
+![just 90 degree angles](https://raw.githubusercontent.com/montanafowler/constellations/master/2%20Constellation%201.png)
 
-![just 45 degree angles]
-(https://raw.githubusercontent.com/montanafowler/constellations/master/3%20Constellation%200.png)
+![just 45 degree angles](https://raw.githubusercontent.com/montanafowler/constellations/master/3%20Constellation%200.png)
 
