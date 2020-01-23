@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/WaveFunctionCollapse.csproj": {}
+  },
+  "projects": {
+    "/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/WaveFunctionCollapse.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/WaveFunctionCollapse.csproj",
+        "projectName": "WaveFunctionCollapse",
+        "projectPath": "/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/WaveFunctionCollapse.csproj",
+        "packagesPath": "/Users/montana/.nuget/packages/",
+        "outputPath": "/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/montana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

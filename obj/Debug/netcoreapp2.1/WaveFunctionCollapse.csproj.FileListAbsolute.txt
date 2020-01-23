@@ -1,0 +1,322 @@
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/3Bricks.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Angular.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/bridge.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/data.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/ground.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/river.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/riverturn.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/road.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/roadturn.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/t.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/tower.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/wall.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/wallriver.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Castle/wallroad.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Cat.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Cats.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Cave.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Chess.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circles/b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circles/b_half.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circles/b_i.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circles/b_quarter.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circles/data.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circles/w.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circles/w_half.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circles/w_i.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circles/w_quarter.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/bridge.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/component.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/connection.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/corner.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/data.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/dskew.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/skew.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/substrate.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/t.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/track.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/transition.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/turn.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/viad.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/vias.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Circuit/wire.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/City.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/ColoredCity.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Dungeon.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Fabric.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Flowers.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Forest.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Hogs.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Knot.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Knots/corner.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Knots/cross.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Knots/data.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Knots/empty.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Knots/line.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Knots/t.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Lake.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/LessRooms.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Link.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Link2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/MagicOffice.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Maze.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Mazelike.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/MoreFlowers.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Mountains.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Nested.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Office.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Office2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Paths.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Platformer.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Qud.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/RedDot.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/RedMaze.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms/bend.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms/corner.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms/corridor.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms/data.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms/door.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms/empty.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms/side.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms/t.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms/turn.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rooms/wall.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Rule126.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/ScaledMaze.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Sewers.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/SimpleKnot.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/SimpleMaze.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/SimpleWall.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Skew1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Skew2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Skyline.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Skyline2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/SmileCity.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Spirals.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliff 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliff 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliff 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliff 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliffcorner 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliffcorner 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliffcorner 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliffcorner 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliffturn 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliffturn 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliffturn 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/cliffturn 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/data.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/grass 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/grasscorner 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/grasscorner 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/grasscorner 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/grasscorner 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/road 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/road 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/road 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/road 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/roadturn 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/roadturn 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/roadturn 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/roadturn 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/watercorner 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/watercorner 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/watercorner 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/watercorner 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/waterside 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/waterside 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/waterside 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/waterside 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/waterturn 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/waterturn 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/waterturn 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/waterturn 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/water_a 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/water_b 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Summer/water_c 0.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Town.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/TrickKnot.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Village.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Water.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/WaveFunctionCollapse.deps.json
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/WaveFunctionCollapse.runtimeconfig.json
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/WaveFunctionCollapse.runtimeconfig.dev.json
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/WaveFunctionCollapse.dll
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/WaveFunctionCollapse.pdb
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/obj/Debug/netcoreapp2.1/WaveFunctionCollapse.csprojAssemblyReference.cache
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/obj/Debug/netcoreapp2.1/WaveFunctionCollapse.AssemblyInfoInputs.cache
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/obj/Debug/netcoreapp2.1/WaveFunctionCollapse.AssemblyInfo.cs
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/obj/Debug/netcoreapp2.1/WaveFunctionCollapse.dll
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/obj/Debug/netcoreapp2.1/WaveFunctionCollapse.pdb
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/.DS_Store
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/.DS_Store
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/data.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_across_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_across_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_adjacent_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_adjacent_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_narrow_right.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_wide_left.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_wide_right.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/quad_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/quad_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/single_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/single_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/solid.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/solid_stars.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/triple_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/triple_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_across_center 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_across_diagonal 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_adjacent_center 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_adjacent_center 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_adjacent_center 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_adjacent_diagonal 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_adjacent_diagonal 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_adjacent_diagonal 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_wide_right 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_wide_right 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_wide_right 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_center 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/single_center 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/single_center 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/single_center 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/single_diagonal 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/single_diagonal 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/single_diagonal 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/triple_center 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/triple_center 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/triple_center 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/triple_diagonal 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/triple_diagonal 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/triple_diagonal 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/data copy.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_center_across_left.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_center_across_right.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_double_across 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_double_across.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_double_adjacent 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_double_adjacent 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_double_adjacent 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_double_adjacent.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_quad.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_triple 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_triple 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_triple 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_triple.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/data copy 2.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation.zip
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/.DS_Store
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/data copy 2.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/data copy.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/data.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_across_center 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_across_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_across_diagonal 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_across_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_adjacent_center 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_adjacent_center 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_adjacent_center 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_adjacent_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_adjacent_diagonal 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_adjacent_diagonal 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_adjacent_diagonal 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_adjacent_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_narrow_left 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_narrow_left 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_narrow_left 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_narrow_left.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_narrow_right 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_narrow_right 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_narrow_right 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_narrow_right.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_wide_left 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_wide_left 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_wide_left 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_wide_left.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_wide_right 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_wide_right 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_wide_right 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/double_two_angles_wide_right.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_center 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_diagonal 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_center_across_left 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_center_across_left 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_center_across_left 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_center_across_left.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_center_across_right 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_center_across_right 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_center_across_right 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_center_across_right.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_double_across 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_double_across.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_double_adjacent 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_double_adjacent 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_double_adjacent 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_double_adjacent.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_quad.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_triple 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_triple 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_triple 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/line_edge_triple.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/quad_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/quad_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/single_center 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/single_center 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/single_center 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/single_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/single_diagonal 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/single_diagonal 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/single_diagonal 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/single_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/solid.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/solid_stars.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/triple_center 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/triple_center 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/triple_center 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/triple_center.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/triple_diagonal 1.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/triple_diagonal 2.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/triple_diagonal 3.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation2/triple_diagonal.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_diagonal 1 copy.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_diagonal 1b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_diagonal copy.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_narrow_left.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_narrow_left b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_narrow_left 3b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_narrow_left 1b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/data copy 3.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_center_across_left 1b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_center_across_left 3b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_narrow_right 1b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_narrow_right 2b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_center_across_right 2b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_center_across_right b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/bottom.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/left.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/right.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/temp.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/top.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/corner.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_narrow_right 3b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_center_across_left 2b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/line_edge_center_across_right 1b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/data copy 4.xml
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_wide_left 1b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_wide_left 3b.png
+/Users/montana/Documents/Academics/UCSC_Quarter1_Winter2020/CMPM202/WaveFunctionCollapse-master/bin/Debug/netcoreapp2.1/samples/Constellation/double_two_angles_wide_left b.png

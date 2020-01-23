@@ -1,0 +1,1229 @@
+<set size="16">
+	<tiles>
+		<tile name="double_across_center" symmetry="I" weight="1"/>
+		<tile name="double_across_diagonal" symmetry="\" weight="1"/>
+		<tile name="double_adjacent_center" symmetry="L" weight="1"/>
+		<tile name="double_adjacent_diagonal" symmetry="T" weight="1"/>
+		<tile name="double_two_angles_narrow_left" symmetry="L" weight=".5"/>
+		<tile name="double_two_angles_narrow_right" symmetry="L" weight=".5"/>
+		<tile name="double_two_angles_wide_left" symmetry="L" weight="1"/>
+		<tile name="double_two_angles_wide_right" symmetry="L" weight="1"/>
+		<tile name="line_center" symmetry="I" weight="1"/>
+		<tile name="line_diagonal" symmetry="\" weight="1"/>
+		<tile name="quad_center" symmetry="X" weight="1"/>
+		<tile name="quad_diagonal" symmetry="X" weight="1"/>
+		<tile name="single_center" symmetry="T" weight="1"/>
+		<tile name="single_diagonal" symmetry="L" weight="1"/>
+		<tile name="solid_stars" symmetry="X" weight="20.0"/>
+		<tile name="solid" symmetry="X" weight="50.0"/>
+		<tile name="triple_center" symmetry="T" weight="1"/>
+		<tile name="triple_diagonal" symmetry="L" weight="1"/>
+		<tile name="line_edge" symmetry="L" weight="1"/>
+		<tile name="line_edge_double_adjacent" symmetry="T" weight="1"/>
+		<tile name="line_edge_double_across" symmetry="\" weight="1"/>
+		<tile name="line_edge_triple" symmetry="L" weight="1"/>
+		<tile name="line_edge_quad" symmetry="X" weight="1"/>
+		<tile name="line_edge_center_across_left" symmetry="T" weight=".5"/>
+		<tile name="line_edge_center_across_right" symmetry="T" weight=".5"/>
+		
+		<tile name="left" symmetry="L"/>
+		<tile name="right" symmetry="L"/>
+		<tile name="top" symmetry="X"/>
+		<tile name="bottom" symmetry="X"/>
+		<tile name="corner" symmetry="X"/>
+
+
+
+	</tiles>
+	<neighbors>
+		<!-- A -->
+		<neighbor left="double_across_center" right="double_adjacent_center"/>
+		<neighbor left="double_across_center" right="double_adjacent_center 3"/>
+		<neighbor left="double_across_center" right="double_adjacent_diagonal 3"/>
+		<neighbor left="double_across_center" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="double_across_center" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="double_across_center" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="double_across_center" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="double_across_center" right="double_two_angles_wide_left 3"/>
+		<neighbor left="double_across_center" right="double_two_angles_wide_right 1"/>
+		<neighbor left="double_across_center" right="line_center"/>
+		<neighbor left="double_across_center" right="single_center"/>
+		<neighbor left="double_across_center" right="single_center 2"/>
+		<neighbor left="double_across_center" right="single_center 3"/>
+		<neighbor left="double_across_center" right="single_diagonal"/>
+		<neighbor left="double_across_center" right="single_diagonal 3"/>
+		<neighbor left="double_across_center" right="solid_stars"/>
+		<neighbor left="double_across_center" right="solid"/>
+		<neighbor left="double_across_center" right="triple_center 1"/>
+		<neighbor left="double_across_center" right="line_edge 2"/>
+		<neighbor left="double_across_center" right="line_edge 1"/>
+		<neighbor left="double_across_center" right="line_edge_double_adjacent 3"/>
+		<neighbor left="double_across_center" right="line_edge_center_across_left 2"/>
+		<neighbor left="double_across_center" right="line_edge_center_across_right 2"/>
+
+		<!-- B -->
+		<neighbor left="double_across_diagonal" right="line_edge 3"/>
+		<neighbor left="double_across_diagonal" right="line_edge_double_adjacent"/>
+		<neighbor left="double_across_diagonal" right="line_edge_double_across"/>
+		<neighbor left="double_across_diagonal" right="line_edge_triple 2"/>
+
+		<!-- C -->
+		<neighbor left="double_adjacent_center" right="double_across_center 1"/>
+		<neighbor left="double_adjacent_center" right="double_adjacent_center 1"/>
+		<neighbor left="double_adjacent_center" right="double_adjacent_center 2"/>
+		<neighbor left="double_adjacent_center" right="double_two_angles_narrow_left"/>
+		<neighbor left="double_adjacent_center" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="double_adjacent_center" right="double_two_angles_wide_left 2"/>
+		<neighbor left="double_adjacent_center" right="double_two_angles_wide_right 2"/>
+		<neighbor left="double_adjacent_center" right="line_center 1"/>
+		<neighbor left="double_adjacent_center" right="quad_center"/>
+		<neighbor left="double_adjacent_center" right="single_center 1"/>
+		<neighbor left="double_adjacent_center" right="triple_center 2"/>
+		<neighbor left="double_adjacent_center" right="triple_center 3"/>
+		<neighbor left="double_adjacent_center" right="triple_center"/>
+		<neighbor left="double_adjacent_center" right="line_edge_center_across_left 1"/>
+		<neighbor left="double_adjacent_center" right="line_edge_center_across_right 3"/>
+
+		<!-- D -->
+		<neighbor left="double_adjacent_diagonal" right="line_edge 3"/>
+		<neighbor left="double_adjacent_diagonal" right="line_edge_double_adjacent"/>
+		<neighbor left="double_adjacent_diagonal" right="line_edge_double_across"/>
+		<neighbor left="double_adjacent_diagonal" right="line_edge_triple 2"/>
+
+		<!-- E -->
+		<neighbor left="double_two_angles_narrow_left 3" right="double_adjacent_center"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="double_adjacent_center 3"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="double_adjacent_diagonal 3"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="double_two_angles_wide_left 3"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="double_two_angles_wide_right 1"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="line_center"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="single_center"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="single_center 2"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="single_center 3"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="single_diagonal"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="single_diagonal 3"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="solid_stars"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="solid"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="triple_center 1"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="line_edge 2"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="line_edge 1"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="line_edge_double_adjacent 3"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="line_edge_center_across_left 2"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="line_edge_center_across_right 2"/>
+
+		<!-- F -->
+		<neighbor left="double_two_angles_narrow_right 2" right="double_across_center"/>
+		<neighbor left="double_two_angles_narrow_right 2" right="line_edge 3"/>
+		<neighbor left="double_two_angles_narrow_right 2" right="line_edge_double_adjacent"/>
+		<neighbor left="double_two_angles_narrow_right 2" right="line_edge_double_across"/>
+		<neighbor left="double_two_angles_narrow_right 2" right="line_edge_triple 2"/>
+
+		<!-- G -->
+		<neighbor left="double_two_angles_wide_left 1" right="double_adjacent_center"/>
+		<neighbor left="double_two_angles_wide_left 1" right="double_adjacent_center 3"/>
+		<neighbor left="double_two_angles_wide_left 1" right="double_adjacent_diagonal 3"/>
+		<neighbor left="double_two_angles_wide_left 1" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="double_two_angles_wide_left 1" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="double_two_angles_wide_left 1" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="double_two_angles_wide_left 1" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="double_two_angles_wide_left 1" right="double_two_angles_wide_left 3"/>
+		<neighbor left="double_two_angles_wide_left 1" right="double_two_angles_wide_right 1"/>
+		<neighbor left="double_two_angles_wide_left 1" right="line_center"/>
+		<neighbor left="double_two_angles_wide_left 1" right="single_center"/>
+		<neighbor left="double_two_angles_wide_left 1" right="single_center 2"/>
+		<neighbor left="double_two_angles_wide_left 1" right="single_center 3"/>
+		<neighbor left="double_two_angles_wide_left 1" right="single_diagonal"/>
+		<neighbor left="double_two_angles_wide_left 1" right="single_diagonal 3"/>
+		<neighbor left="double_two_angles_wide_left 1" right="solid_stars"/>
+		<neighbor left="double_two_angles_wide_left 1" right="solid"/>
+		<neighbor left="double_two_angles_wide_left 1" right="triple_center 1"/>
+		<neighbor left="double_two_angles_wide_left 1" right="line_edge 2"/>
+		<neighbor left="double_two_angles_wide_left 1" right="line_edge 1"/>
+		<neighbor left="double_two_angles_wide_left 1" right="line_edge_double_adjacent 3"/>
+		<neighbor left="double_two_angles_wide_left 1" right="line_edge_center_across_left 2"/>
+		<neighbor left="double_two_angles_wide_left 1" right="line_edge_center_across_right 2"/>
+
+		<!-- H -->
+		<neighbor left="double_two_angles_wide_right 1" right="line_edge"/>
+		<neighbor left="double_two_angles_wide_right 1" right="line_edge_double_adjacent 2"/>
+		<neighbor left="double_two_angles_wide_right 1" right="line_edge_double_across 1"/>
+		<neighbor left="double_two_angles_wide_right 1" right="line_edge_triple 1"/>
+
+		<!-- I -->
+		<neighbor left="line_center" right="double_adjacent_center"/>
+		<neighbor left="line_center" right="double_adjacent_center 3"/>
+		<neighbor left="line_center" right="double_adjacent_diagonal 3"/>
+		<neighbor left="line_center" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="line_center" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="line_center" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="line_center" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="line_center" right="double_two_angles_wide_left 3"/>
+		<neighbor left="line_center" right="double_two_angles_wide_right 1"/>
+		<neighbor left="line_center" right="line_center"/>
+		<neighbor left="line_center" right="single_center"/>
+		<neighbor left="line_center" right="single_center 2"/>
+		<neighbor left="line_center" right="single_center 3"/>
+		<neighbor left="line_center" right="single_diagonal"/>
+		<neighbor left="line_center" right="single_diagonal 3"/>
+		<neighbor left="line_center" right="solid_stars"/>
+		<neighbor left="line_center" right="solid"/>
+		<neighbor left="line_center" right="triple_center 1"/>
+		<neighbor left="line_center" right="line_edge 2"/>
+		<neighbor left="line_center" right="line_edge 1"/>
+		<neighbor left="line_center" right="line_edge_double_adjacent 3"/>
+		<neighbor left="line_center" right="line_edge_center_across_left 2"/>
+		<neighbor left="line_center" right="line_edge_center_across_right 2"/>
+
+		<!-- J -->
+		<neighbor left="line_diagonal" right="line_edge 3"/>
+		<neighbor left="line_diagonal" right="line_edge_double_adjacent"/>
+		<neighbor left="line_diagonal" right="line_edge_double_across"/>
+		<neighbor left="line_diagonal" right="line_edge_triple 2"/>
+
+		<!-- K -->
+		<neighbor left="quad_center" right="double_across_center 1"/>
+		<neighbor left="quad_center" right="double_adjacent_center 1"/>
+		<neighbor left="quad_center" right="double_adjacent_center 2"/>
+		<neighbor left="quad_center" right="double_two_angles_narrow_left"/>
+		<neighbor left="quad_center" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="quad_center" right="double_two_angles_wide_left 2"/>
+		<neighbor left="quad_center" right="double_two_angles_wide_right 2"/>
+		<neighbor left="quad_center" right="line_center 1"/>
+		<neighbor left="quad_center" right="quad_center"/>
+		<neighbor left="quad_center" right="single_center 1"/>
+		<neighbor left="quad_center" right="triple_center 2"/>
+		<neighbor left="quad_center" right="triple_center 3"/>
+		<neighbor left="quad_center" right="triple_center"/>
+		<neighbor left="quad_center" right="line_edge_center_across_left 1"/>
+		<neighbor left="quad_center" right="line_edge_center_across_right 3"/>
+
+		<!-- L -->
+		<neighbor left="quad_diagonal" right="line_edge_double_adjacent 1"/>
+		<neighbor left="quad_diagonal" right="line_edge_triple 3"/>
+		<neighbor left="quad_diagonal" right="line_edge_triple"/>
+		<neighbor left="quad_diagonal" right="line_edge_quad"/>
+
+		<!-- M -->
+		<neighbor left="single_center" right="double_adjacent_center"/>
+		<neighbor left="single_center" right="double_adjacent_center 3"/>
+		<neighbor left="single_center" right="double_adjacent_diagonal 3"/>
+		<neighbor left="single_center" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="single_center" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="single_center" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="single_center" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="single_center" right="double_two_angles_wide_left 3"/>
+		<neighbor left="single_center" right="double_two_angles_wide_right 1"/>
+		<neighbor left="single_center" right="line_center"/>
+		<neighbor left="single_center" right="single_center"/>
+		<neighbor left="single_center" right="single_center 2"/>
+		<neighbor left="single_center" right="single_center 3"/>
+		<neighbor left="single_center" right="single_diagonal"/>
+		<neighbor left="single_center" right="single_diagonal 3"/>
+		<neighbor left="single_center" right="solid_stars"/>
+		<neighbor left="single_center" right="solid"/>
+		<neighbor left="single_center" right="triple_center 1"/>
+		<neighbor left="single_center" right="line_edge 2"/>
+		<neighbor left="single_center" right="line_edge 1"/>
+		<neighbor left="single_center" right="line_edge_double_adjacent 3"/>
+		<neighbor left="single_center" right="line_edge_center_across_left 2"/>
+		<neighbor left="single_center" right="line_edge_center_across_right 2"/>
+
+		<!-- N -->
+		<neighbor left="single_diagonal" right="line_edge 3"/>
+		<neighbor left="single_diagonal" right="line_edge_double_adjacent"/>
+		<neighbor left="single_diagonal" right="line_edge_double_across"/>
+		<neighbor left="single_diagonal" right="line_edge_triple 2"/>
+
+		<!-- O -->
+		<neighbor left="solid_stars" right="double_adjacent_center"/>
+		<neighbor left="solid_stars" right="double_adjacent_center 3"/>
+		<neighbor left="solid_stars" right="double_adjacent_diagonal 3"/>
+		<neighbor left="solid_stars" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="solid_stars" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="solid_stars" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="solid_stars" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="solid_stars" right="double_two_angles_wide_left 3"/>
+		<neighbor left="solid_stars" right="double_two_angles_wide_right 1"/>
+		<neighbor left="solid_stars" right="line_center"/>
+		<neighbor left="solid_stars" right="single_center"/>
+		<neighbor left="solid_stars" right="single_center 2"/>
+		<neighbor left="solid_stars" right="single_center 3"/>
+		<neighbor left="solid_stars" right="single_diagonal"/>
+		<neighbor left="solid_stars" right="single_diagonal 3"/>
+		<neighbor left="solid_stars" right="solid_stars"/>
+		<neighbor left="solid_stars" right="solid"/>
+		<neighbor left="solid_stars" right="triple_center 1"/>
+		<neighbor left="solid_stars" right="line_edge 2"/>
+		<neighbor left="solid_stars" right="line_edge 1"/>
+		<neighbor left="solid_stars" right="line_edge_double_adjacent 3"/>
+		<neighbor left="solid_stars" right="line_edge_center_across_left 2"/>
+		<neighbor left="solid_stars" right="line_edge_center_across_right 2"/>
+
+		<!-- P -->
+		<neighbor left="solid" right="double_adjacent_center"/>
+		<neighbor left="solid" right="double_adjacent_center 3"/>
+		<neighbor left="solid" right="double_adjacent_diagonal 3"/>
+		<neighbor left="solid" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="solid" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="solid" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="solid" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="solid" right="double_two_angles_wide_left 3"/>
+		<neighbor left="solid" right="double_two_angles_wide_right 1"/>
+		<neighbor left="solid" right="line_center"/>
+		<neighbor left="solid" right="single_center"/>
+		<neighbor left="solid" right="single_center 2"/>
+		<neighbor left="solid" right="single_center 3"/>
+		<neighbor left="solid" right="single_diagonal"/>
+		<neighbor left="solid" right="single_diagonal 3"/>
+		<neighbor left="solid" right="solid_stars"/>
+		<neighbor left="solid" right="solid"/>
+		<neighbor left="solid" right="triple_center 1"/>
+		<neighbor left="solid" right="line_edge 2"/>
+		<neighbor left="solid" right="line_edge 1"/>
+		<neighbor left="solid" right="line_edge_double_adjacent 3"/>	
+		<neighbor left="solid" right="line_edge_center_across_left 2"/>
+		<neighbor left="solid" right="line_edge_center_across_right 2"/>
+
+		<!-- Q3 -->
+		<neighbor left="triple_center 3" right="double_adjacent_center"/>
+		<neighbor left="triple_center 3" right="double_adjacent_center 3"/>
+		<neighbor left="triple_center 3" right="double_adjacent_diagonal 3"/>
+		<neighbor left="triple_center 3" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="triple_center 3" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="triple_center 3" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="triple_center 3" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="triple_center 3" right="double_two_angles_wide_left 3"/>
+		<neighbor left="triple_center 3" right="double_two_angles_wide_right 1"/>
+		<neighbor left="triple_center 3" right="line_center"/>
+		<neighbor left="triple_center 3" right="single_center"/>
+		<neighbor left="triple_center 3" right="single_center 2"/>
+		<neighbor left="triple_center 3" right="single_center 3"/>
+		<neighbor left="triple_center 3" right="single_diagonal"/>
+		<neighbor left="triple_center 3" right="single_diagonal 3"/>
+		<neighbor left="triple_center 3" right="solid_stars"/>
+		<neighbor left="triple_center 3" right="solid"/>
+		<neighbor left="triple_center 3" right="triple_center 1"/>
+		<neighbor left="triple_center 3" right="line_edge 2"/>
+		<neighbor left="triple_center 3" right="line_edge 1"/>
+		<neighbor left="triple_center 3" right="line_edge_double_adjacent 3"/>
+		<neighbor left="triple_center 3" right="line_edge_center_across_left 2"/>
+		<neighbor left="triple_center 3" right="line_edge_center_across_right 2"/>
+
+		<!-- R -->
+		<neighbor left="triple_diagonal 3" right="line_edge_double_adjacent 1"/>
+		<neighbor left="triple_diagonal 3" right="line_edge_triple 3"/>
+		<neighbor left="triple_diagonal 3" right="line_edge_triple"/>
+		<neighbor left="triple_diagonal 3" right="line_edge_quad"/>
+
+		<!-- A1 -->
+		<neighbor left="double_across_center 1" right="double_across_center 1"/>
+		<neighbor left="double_across_center 1" right="double_adjacent_center 1"/>
+		<neighbor left="double_across_center 1" right="double_adjacent_center 2"/>
+		<neighbor left="double_across_center 1" right="double_two_angles_narrow_left"/>
+		<neighbor left="double_across_center 1" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="double_across_center 1" right="double_two_angles_wide_left 2"/>
+		<neighbor left="double_across_center 1" right="double_two_angles_wide_right 2"/>
+		<neighbor left="double_across_center 1" right="line_center 1"/>
+		<neighbor left="double_across_center 1" right="quad_center"/>
+		<neighbor left="double_across_center 1" right="single_center 1"/>
+		<neighbor left="double_across_center 1" right="triple_center 2"/>
+		<neighbor left="double_across_center 1" right="triple_center 3"/>
+		<neighbor left="double_across_center 1" right="triple_center"/>
+		<neighbor left="double_across_center 1" right="line_edge_center_across_left 1"/>
+		<neighbor left="double_across_center 1" right="line_edge_center_across_right 3"/>
+
+
+		<!-- B1 -->
+		<neighbor left="double_across_diagonal 1" right="line_edge"/>
+		<neighbor left="double_across_diagonal 1" right="line_edge_double_adjacent 2"/>
+		<neighbor left="double_across_diagonal 1" right="line_edge_double_across 1"/>
+		<neighbor left="double_across_diagonal 1" right="line_edge_triple 1"/>
+
+		<!-- C1 -->
+		<neighbor left="double_adjacent_center 1" right="double_adjacent_center"/>
+		<neighbor left="double_adjacent_center 1" right="double_adjacent_center 3"/>
+		<neighbor left="double_adjacent_center 1" right="double_adjacent_diagonal 3"/>
+		<neighbor left="double_adjacent_center 1" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="double_adjacent_center 1" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="double_adjacent_center 1" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="double_adjacent_center 1" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="double_adjacent_center 1" right="double_two_angles_wide_left 3"/>
+		<neighbor left="double_adjacent_center 1" right="double_two_angles_wide_right 1"/>
+		<neighbor left="double_adjacent_center 1" right="line_center"/>
+		<neighbor left="double_adjacent_center 1" right="single_center"/>
+		<neighbor left="double_adjacent_center 1" right="single_center 2"/>
+		<neighbor left="double_adjacent_center 1" right="single_center 3"/>
+		<neighbor left="double_adjacent_center 1" right="single_diagonal"/>
+		<neighbor left="double_adjacent_center 1" right="single_diagonal 3"/>
+		<neighbor left="double_adjacent_center 1" right="solid_stars"/>
+		<neighbor left="double_adjacent_center 1" right="solid"/>
+		<neighbor left="double_adjacent_center 1" right="triple_center 1"/>
+		<neighbor left="double_adjacent_center 1" right="line_edge 2"/>
+		<neighbor left="double_adjacent_center 1" right="line_edge 1"/>
+		<neighbor left="double_adjacent_center 1" right="line_edge_double_adjacent 3"/>
+		<neighbor left="double_adjacent_center 1" right="line_edge_center_across_left 2"/>
+		<neighbor left="double_adjacent_center 1" right="line_edge_center_across_right 2"/>
+
+		<!-- C2 -->
+		<neighbor left="double_adjacent_center 2" right="double_adjacent_center"/>
+		<neighbor left="double_adjacent_center 2" right="double_adjacent_center 3"/>
+		<neighbor left="double_adjacent_center 2" right="double_adjacent_diagonal 3"/>
+		<neighbor left="double_adjacent_center 2" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="double_adjacent_center 2" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="double_adjacent_center 2" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="double_adjacent_center 2" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="double_adjacent_center 2" right="double_two_angles_wide_left 3"/>
+		<neighbor left="double_adjacent_center 2" right="double_two_angles_wide_right 1"/>
+		<neighbor left="double_adjacent_center 2" right="line_center"/>
+		<neighbor left="double_adjacent_center 2" right="single_center"/>
+		<neighbor left="double_adjacent_center 2" right="single_center 2"/>
+		<neighbor left="double_adjacent_center 2" right="single_center 3"/>
+		<neighbor left="double_adjacent_center 2" right="single_diagonal"/>
+		<neighbor left="double_adjacent_center 2" right="single_diagonal 3"/>
+		<neighbor left="double_adjacent_center 2" right="solid_stars"/>
+		<neighbor left="double_adjacent_center 2" right="solid"/>
+		<neighbor left="double_adjacent_center 2" right="triple_center 1"/>
+		<neighbor left="double_adjacent_center 2" right="line_edge 2"/>
+		<neighbor left="double_adjacent_center 2" right="line_edge 1"/>
+		<neighbor left="double_adjacent_center 2" right="line_edge_double_adjacent 3"/>
+		<neighbor left="double_adjacent_center 2" right="line_edge_center_across_left 2"/>
+		<neighbor left="double_adjacent_center 2" right="line_edge_center_across_right 2"/>
+
+		<!-- C3 -->
+		<neighbor left="double_adjacent_center 3" right="double_across_center 1"/>
+		<neighbor left="double_adjacent_center 3" right="double_adjacent_center 1"/>
+		<neighbor left="double_adjacent_center 3" right="double_adjacent_center 2"/>
+		<neighbor left="double_adjacent_center 3" right="double_two_angles_narrow_left"/>
+		<neighbor left="double_adjacent_center 3" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="double_adjacent_center 3" right="double_two_angles_wide_left 2"/>
+		<neighbor left="double_adjacent_center 3" right="double_two_angles_wide_right 2"/>
+		<neighbor left="double_adjacent_center 3" right="line_center 1"/>
+		<neighbor left="double_adjacent_center 3" right="quad_center"/>
+		<neighbor left="double_adjacent_center 3" right="single_center 1"/>
+		<neighbor left="double_adjacent_center 3" right="triple_center 2"/>
+		<neighbor left="double_adjacent_center 3" right="triple_center 3"/>
+		<neighbor left="double_adjacent_center 3" right="triple_center"/>
+		<neighbor left="double_adjacent_center 3" right="line_edge_center_across_left 1"/>
+		<neighbor left="double_adjacent_center 3" right="line_edge_center_across_right 3"/>
+
+
+
+		<!-- D1 -->
+		<neighbor left="double_adjacent_diagonal 1" right="double_adjacent_center"/>
+		<neighbor left="double_adjacent_diagonal 1" right="double_adjacent_center 3"/>
+		<neighbor left="double_adjacent_diagonal 1" right="double_adjacent_diagonal 3"/>
+		<neighbor left="double_adjacent_diagonal 1" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="double_adjacent_diagonal 1" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="double_adjacent_diagonal 1" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="double_adjacent_diagonal 1" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="double_adjacent_diagonal 1" right="double_two_angles_wide_left 3"/>
+		<neighbor left="double_adjacent_diagonal 1" right="double_two_angles_wide_right 1"/>
+		<neighbor left="double_adjacent_diagonal 1" right="line_center"/>
+		<neighbor left="double_adjacent_diagonal 1" right="single_center"/>
+		<neighbor left="double_adjacent_diagonal 1" right="single_center 2"/>
+		<neighbor left="double_adjacent_diagonal 1" right="single_center 3"/>
+		<neighbor left="double_adjacent_diagonal 1" right="single_diagonal"/>
+		<neighbor left="double_adjacent_diagonal 1" right="single_diagonal 3"/>
+		<neighbor left="double_adjacent_diagonal 1" right="solid_stars"/>
+		<neighbor left="double_adjacent_diagonal 1" right="solid"/>
+		<neighbor left="double_adjacent_diagonal 1" right="triple_center 1"/>
+		<neighbor left="double_adjacent_diagonal 1" right="line_edge 2"/>
+		<neighbor left="double_adjacent_diagonal 1" right="line_edge 1"/>
+		<neighbor left="double_adjacent_diagonal 1" right="line_edge_double_adjacent 3"/>
+		<neighbor left="double_adjacent_diagonal 1" right="line_edge_center_across_left 2"/>
+		<neighbor left="double_adjacent_diagonal 1" right="line_edge_center_across_right 2"/>
+
+		<!-- D2 -->
+		<neighbor left="double_adjacent_diagonal 2" right="line_edge"/>
+		<neighbor left="double_adjacent_diagonal 2" right="line_edge_double_adjacent 2"/>
+		<neighbor left="double_adjacent_diagonal 2" right="line_edge_double_across 1"/>
+		<neighbor left="double_adjacent_diagonal 2" right="line_edge_triple 1"/>
+
+		<!-- D3 -->
+		<neighbor left="double_adjacent_diagonal 3" right="line_edge_double_adjacent 1"/>
+		<neighbor left="double_adjacent_diagonal 3" right="line_edge_triple 3"/>
+		<neighbor left="double_adjacent_diagonal 3" right="line_edge_triple"/>
+		<neighbor left="double_adjacent_diagonal 3" right="line_edge_quad"/>
+
+		<!-- E1 -->
+		<neighbor left="double_two_angles_narrow_left" right="double_adjacent_center"/>
+		<neighbor left="double_two_angles_narrow_left" right="double_adjacent_center 3"/>
+		<neighbor left="double_two_angles_narrow_left" right="double_adjacent_diagonal 3"/>
+		<neighbor left="double_two_angles_narrow_left" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="double_two_angles_narrow_left" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="double_two_angles_narrow_left" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="double_two_angles_narrow_left" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="double_two_angles_narrow_left" right="double_two_angles_wide_left 3"/>
+		<neighbor left="double_two_angles_narrow_left" right="double_two_angles_wide_right 1"/>
+		<neighbor left="double_two_angles_narrow_left" right="line_center"/>
+		<neighbor left="double_two_angles_narrow_left" right="single_center"/>
+		<neighbor left="double_two_angles_narrow_left" right="single_center 2"/>
+		<neighbor left="double_two_angles_narrow_left" right="single_center 3"/>
+		<neighbor left="double_two_angles_narrow_left" right="single_diagonal"/>
+		<neighbor left="double_two_angles_narrow_left" right="single_diagonal 3"/>
+		<neighbor left="double_two_angles_narrow_left" right="solid_stars"/>
+		<neighbor left="double_two_angles_narrow_left" right="solid"/>
+		<neighbor left="double_two_angles_narrow_left" right="triple_center 1"/>
+		<neighbor left="double_two_angles_narrow_left" right="line_edge 2"/>
+		<neighbor left="double_two_angles_narrow_left" right="line_edge 1"/>
+		<neighbor left="double_two_angles_narrow_left" right="line_edge_double_adjacent 3"/>
+		<neighbor left="double_two_angles_narrow_left" right="line_edge_center_across_left 2"/>
+		<neighbor left="double_two_angles_narrow_left" right="line_edge_center_across_right 2"/>
+
+		<!-- E2 -->
+		<neighbor left="double_two_angles_narrow_left 1" right="line_edge"/>
+		<neighbor left="double_two_angles_narrow_left 1" right="line_edge_double_adjacent 2"/>
+		<neighbor left="double_two_angles_narrow_left 1" right="line_edge_double_across 1"/>
+		<neighbor left="double_two_angles_narrow_left 1" right="line_edge_triple 1"/>
+
+		<!-- E3 -->
+		<neighbor left="double_two_angles_narrow_left 2" right="line_edge_center_across_left 3"/>
+
+		<!-- F1 -->
+		<neighbor left="double_two_angles_narrow_right 3" right="double_adjacent_center"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="double_adjacent_center 3"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="double_adjacent_diagonal 3"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="double_two_angles_wide_left 3"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="double_two_angles_wide_right 1"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="line_center"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="single_center"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="single_center 2"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="single_center 3"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="single_diagonal"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="single_diagonal 3"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="solid_stars"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="solid"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="triple_center 1"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="line_edge 2"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="line_edge 1"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="line_edge_double_adjacent 3"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="line_edge_center_across_left 2"/>
+		<neighbor left="double_two_angles_narrow_right 3" right="line_edge_center_across_right 2"/>
+
+		<!-- F2 -->
+		<neighbor left="double_two_angles_narrow_right" right="double_adjacent_center"/>
+		<neighbor left="double_two_angles_narrow_right" right="double_adjacent_center 3"/>
+		<neighbor left="double_two_angles_narrow_right" right="double_adjacent_diagonal 3"/>
+		<neighbor left="double_two_angles_narrow_right" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="double_two_angles_narrow_right" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="double_two_angles_narrow_right" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="double_two_angles_narrow_right" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="double_two_angles_narrow_right" right="double_two_angles_wide_left 3"/>
+		<neighbor left="double_two_angles_narrow_right" right="double_two_angles_wide_right 1"/>
+		<neighbor left="double_two_angles_narrow_right" right="line_center"/>
+		<neighbor left="double_two_angles_narrow_right" right="single_center"/>
+		<neighbor left="double_two_angles_narrow_right" right="single_center 2"/>
+		<neighbor left="double_two_angles_narrow_right" right="single_center 3"/>
+		<neighbor left="double_two_angles_narrow_right" right="single_diagonal"/>
+		<neighbor left="double_two_angles_narrow_right" right="single_diagonal 3"/>
+		<neighbor left="double_two_angles_narrow_right" right="solid_stars"/>
+		<neighbor left="double_two_angles_narrow_right" right="solid"/>
+		<neighbor left="double_two_angles_narrow_right" right="triple_center 1"/>
+		<neighbor left="double_two_angles_narrow_right" right="line_edge 2"/>
+		<neighbor left="double_two_angles_narrow_right" right="line_edge 1"/>
+		<neighbor left="double_two_angles_narrow_right" right="line_edge_double_adjacent 3"/>
+		<neighbor left="double_two_angles_narrow_right" right="line_edge_center_across_left 2"/>
+		<neighbor left="double_two_angles_narrow_right" right="line_edge_center_across_right 2"/>
+
+		<!-- F3 -->
+		<neighbor left="double_two_angles_wide_right" right="line_edge_center_across_right 1"/>
+
+		<!-- G1 -->
+		<neighbor left="double_two_angles_wide_left 2" right="line_edge"/>
+		<neighbor left="double_two_angles_wide_left 2" right="line_edge_double_adjacent 2"/>
+		<neighbor left="double_two_angles_wide_left 2" right="line_edge_double_across 1"/>
+		<neighbor left="double_two_angles_wide_left 2" right="line_edge_triple 1"/>
+
+		<!-- G2 -->
+		<neighbor left="double_two_angles_wide_left 3" right="line_edge 3"/>
+		<neighbor left="double_two_angles_wide_left 3" right="line_edge_double_adjacent"/>
+		<neighbor left="double_two_angles_wide_left 3" right="line_edge_double_across"/>
+		<neighbor left="double_two_angles_wide_left 3" right="line_edge_triple 2"/>
+
+		<!-- G3 -->
+		<neighbor left="double_two_angles_wide_right" right="double_across_center 1"/>
+		<neighbor left="double_two_angles_wide_right" right="double_adjacent_center 1"/>
+		<neighbor left="double_two_angles_wide_right" right="double_adjacent_center 2"/>
+		<neighbor left="double_two_angles_wide_right" right="double_two_angles_narrow_left"/>
+		<neighbor left="double_two_angles_wide_right" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="double_two_angles_wide_right" right="double_two_angles_wide_left 2"/>
+		<neighbor left="double_two_angles_wide_right" right="double_two_angles_wide_right 2"/>
+		<neighbor left="double_two_angles_wide_right" right="line_center 1"/>
+		<neighbor left="double_two_angles_wide_right" right="quad_center"/>
+		<neighbor left="double_two_angles_wide_right" right="single_center 1"/>
+		<neighbor left="double_two_angles_wide_right" right="triple_center 2"/>
+		<neighbor left="double_two_angles_wide_right" right="triple_center 3"/>
+		<neighbor left="double_two_angles_wide_right" right="triple_center"/>
+		<neighbor left="double_two_angles_wide_right" right="line_edge_center_across_left 1"/>
+		<neighbor left="double_two_angles_wide_right" right="line_edge_center_across_right 3"/>
+
+
+		<!-- I1 -->
+		<neighbor left="line_center 1" right="double_across_center 1"/>
+		<neighbor left="line_center 1" right="double_adjacent_center 1"/>
+		<neighbor left="line_center 1" right="double_adjacent_center 2"/>
+		<neighbor left="line_center 1" right="double_two_angles_narrow_left"/>
+		<neighbor left="line_center 1" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="line_center 1" right="double_two_angles_wide_left 2"/>
+		<neighbor left="line_center 1" right="double_two_angles_wide_right 2"/>
+		<neighbor left="line_center 1" right="line_center 1"/>
+		<neighbor left="line_center 1" right="quad_center"/>
+		<neighbor left="line_center 1" right="single_center 1"/>
+		<neighbor left="line_center 1" right="triple_center 2"/>
+		<neighbor left="line_center 1" right="triple_center 3"/>
+		<neighbor left="line_center 1" right="triple_center"/>
+		<neighbor left="line_center 1" right="line_edge_center_across_left 1"/>
+		<neighbor left="line_center 1" right="line_edge_center_across_right 3"/>
+
+
+		<!-- J1 -->
+		<neighbor left="line_diagonal 1" right="line_edge"/>
+		<neighbor left="line_diagonal 1" right="line_edge_double_adjacent 2"/>
+		<neighbor left="line_diagonal 1" right="line_edge_double_across 1"/>
+		<neighbor left="line_diagonal 1" right="line_edge_triple 1"/>
+
+		<!-- M1 -->
+		<neighbor left="single_center 1" right="double_adjacent_center"/>
+		<neighbor left="single_center 1" right="double_adjacent_center 3"/>
+		<neighbor left="single_center 1" right="double_adjacent_diagonal 3"/>
+		<neighbor left="single_center 1" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="single_center 1" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="single_center 1" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="single_center 1" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="single_center 1" right="double_two_angles_wide_left 3"/>
+		<neighbor left="single_center 1" right="double_two_angles_wide_right 1"/>
+		<neighbor left="single_center 1" right="line_center"/>
+		<neighbor left="single_center 1" right="single_center"/>
+		<neighbor left="single_center 1" right="single_center 2"/>
+		<neighbor left="single_center 1" right="single_center 3"/>
+		<neighbor left="single_center 1" right="single_diagonal"/>
+		<neighbor left="single_center 1" right="single_diagonal 3"/>
+		<neighbor left="single_center 1" right="solid_stars"/>
+		<neighbor left="single_center 1" right="solid"/>
+		<neighbor left="single_center 1" right="triple_center 1"/>
+		<neighbor left="single_center 1" right="line_edge 2"/>
+		<neighbor left="single_center 1" right="line_edge 1"/>
+		<neighbor left="single_center 1" right="line_edge_double_adjacent 3"/>
+		<neighbor left="single_center 1" right="line_edge_center_across_left 2"/>
+		<neighbor left="single_center 1" right="line_edge_center_across_right 2"/>
+
+		<!-- M2 -->
+		<neighbor left="single_center 2" right="double_adjacent_center"/>
+		<neighbor left="single_center 2" right="double_adjacent_center 3"/>
+		<neighbor left="single_center 2" right="double_adjacent_diagonal 3"/>
+		<neighbor left="single_center 2" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="single_center 2" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="single_center 2" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="single_center 2" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="single_center 2" right="double_two_angles_wide_left 3"/>
+		<neighbor left="single_center 2" right="double_two_angles_wide_right 1"/>
+		<neighbor left="single_center 2" right="line_center"/>
+		<neighbor left="single_center 2" right="single_center"/>
+		<neighbor left="single_center 2" right="single_center 2"/>
+		<neighbor left="single_center 2" right="single_center 3"/>
+		<neighbor left="single_center 2" right="single_diagonal"/>
+		<neighbor left="single_center 2" right="single_diagonal 3"/>
+		<neighbor left="single_center 2" right="solid_stars"/>
+		<neighbor left="single_center 2" right="solid"/>
+		<neighbor left="single_center 2" right="triple_center 1"/>
+		<neighbor left="single_center 2" right="line_edge 2"/>
+		<neighbor left="single_center 2" right="line_edge 1"/>
+		<neighbor left="single_center 2" right="line_edge_double_adjacent 3"/>
+		<neighbor left="single_center 2" right="line_edge_center_across_left 2"/>
+		<neighbor left="single_center 2" right="line_edge_center_across_right 2"/>
+
+		<!-- M3 -->
+		<neighbor left="single_center 3" right="double_across_center 1"/>
+		<neighbor left="single_center 3" right="double_adjacent_center 1"/>
+		<neighbor left="single_center 3" right="double_adjacent_center 2"/>
+		<neighbor left="single_center 3" right="double_two_angles_narrow_left"/>
+		<neighbor left="single_center 3" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="single_center 3" right="double_two_angles_wide_left 2"/>
+		<neighbor left="single_center 3" right="double_two_angles_wide_right 2"/>
+		<neighbor left="single_center 3" right="line_center 1"/>
+		<neighbor left="single_center 3" right="quad_center"/>
+		<neighbor left="single_center 3" right="single_center 1"/>
+		<neighbor left="single_center 3" right="triple_center 2"/>
+		<neighbor left="single_center 3" right="triple_center 3"/>
+		<neighbor left="single_center 3" right="triple_center"/>
+		<neighbor left="single_center 3" right="line_edge_center_across_left 1"/>
+		<neighbor left="single_center 3" right="line_edge_center_across_right 3"/>
+
+		<!-- N1 -->
+		<neighbor left="single_diagonal 1" right="double_adjacent_center"/>
+		<neighbor left="single_diagonal 1" right="double_adjacent_center 3"/>
+		<neighbor left="single_diagonal 1" right="double_adjacent_diagonal 3"/>
+		<neighbor left="single_diagonal 1" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="single_diagonal 1" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="single_diagonal 1" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="single_diagonal 1" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="single_diagonal 1" right="double_two_angles_wide_left 3"/>
+		<neighbor left="single_diagonal 1" right="double_two_angles_wide_right 1"/>
+		<neighbor left="single_diagonal 1" right="line_center"/>
+		<neighbor left="single_diagonal 1" right="single_center"/>
+		<neighbor left="single_diagonal 1" right="single_center 2"/>
+		<neighbor left="single_diagonal 1" right="single_center 3"/>
+		<neighbor left="single_diagonal 1" right="single_diagonal"/>
+		<neighbor left="single_diagonal 1" right="single_diagonal 3"/>
+		<neighbor left="single_diagonal 1" right="solid_stars"/>
+		<neighbor left="single_diagonal 1" right="solid"/>
+		<neighbor left="single_diagonal 1" right="triple_center 1"/>
+		<neighbor left="single_diagonal 1" right="line_edge 2"/>
+		<neighbor left="single_diagonal 1" right="line_edge 1"/>
+		<neighbor left="single_diagonal 1" right="line_edge_double_adjacent 3"/>
+		<neighbor left="single_diagonal 1" right="line_edge_center_across_left 2"/>
+		<neighbor left="single_diagonal 1" right="line_edge_center_across_right 2"/>
+
+		<!-- N2 -->
+		<neighbor left="single_diagonal 2" right="double_adjacent_center"/>
+		<neighbor left="single_diagonal 2" right="double_adjacent_center 3"/>
+		<neighbor left="single_diagonal 2" right="double_adjacent_diagonal 3"/>
+		<neighbor left="single_diagonal 2" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="single_diagonal 2" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="single_diagonal 2" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="single_diagonal 2" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="single_diagonal 2" right="double_two_angles_wide_left 3"/>
+		<neighbor left="single_diagonal 2" right="double_two_angles_wide_right 1"/>
+		<neighbor left="single_diagonal 2" right="line_center"/>
+		<neighbor left="single_diagonal 2" right="single_center"/>
+		<neighbor left="single_diagonal 2" right="single_center 2"/>
+		<neighbor left="single_diagonal 2" right="single_center 3"/>
+		<neighbor left="single_diagonal 2" right="single_diagonal"/>
+		<neighbor left="single_diagonal 2" right="single_diagonal 3"/>
+		<neighbor left="single_diagonal 2" right="solid_stars"/>
+		<neighbor left="single_diagonal 2" right="solid"/>
+		<neighbor left="single_diagonal 2" right="triple_center 1"/>
+		<neighbor left="single_diagonal 2" right="line_edge 2"/>
+		<neighbor left="single_diagonal 2" right="line_edge 1"/>
+		<neighbor left="single_diagonal 2" right="line_edge_double_adjacent 3"/>
+		<neighbor left="single_diagonal 2" right="line_edge_center_across_left 2"/>
+		<neighbor left="single_diagonal 2" right="line_edge_center_across_right 2"/>
+
+		<!-- N3 -->
+		<neighbor left="single_diagonal 3" right="line_edge"/>
+		<neighbor left="single_diagonal 3" right="line_edge_double_adjacent 2"/>
+		<neighbor left="single_diagonal 3" right="line_edge_double_across 1"/>
+		<neighbor left="single_diagonal 3" right="line_edge_triple 1"/>
+
+		<!-- Q1 -->
+		<neighbor left="triple_center 1" right="double_across_center 1"/>
+		<neighbor left="triple_center 1" right="double_adjacent_center 1"/>
+		<neighbor left="triple_center 1" right="double_adjacent_center 2"/>
+		<neighbor left="triple_center 1" right="double_two_angles_narrow_left"/>
+		<neighbor left="triple_center 1" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="triple_center 1" right="double_two_angles_wide_left 2"/>
+		<neighbor left="triple_center 1" right="double_two_angles_wide_right 2"/>
+		<neighbor left="triple_center 1" right="line_center 1"/>
+		<neighbor left="triple_center 1" right="quad_center"/>
+		<neighbor left="triple_center 1" right="single_center 1"/>
+		<neighbor left="triple_center 1" right="triple_center 2"/>
+		<neighbor left="triple_center 1" right="triple_center 3"/>
+		<neighbor left="triple_center 1" right="triple_center"/>
+		<neighbor left="triple_center 1" right="line_edge_center_across_left 1"/>
+		<neighbor left="triple_center 1" right="line_edge_center_across_right 3"/>
+
+		<!-- Q2 -->
+		<neighbor left="triple_center 2" right="double_across_center 1"/>
+		<neighbor left="triple_center 2" right="double_adjacent_center 1"/>
+		<neighbor left="triple_center 2" right="double_adjacent_center 2"/>
+		<neighbor left="triple_center 2" right="double_two_angles_narrow_left"/>
+		<neighbor left="triple_center 2" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="triple_center 2" right="double_two_angles_wide_left 2"/>
+		<neighbor left="triple_center 2" right="double_two_angles_wide_right 2"/>
+		<neighbor left="triple_center 2" right="line_center 1"/>
+		<neighbor left="triple_center 2" right="quad_center"/>
+		<neighbor left="triple_center 2" right="single_center 1"/>
+		<neighbor left="triple_center 2" right="triple_center 2"/>
+		<neighbor left="triple_center 2" right="triple_center 3"/>
+		<neighbor left="triple_center 2" right="triple_center"/>
+		<neighbor left="triple_center 2" right="line_edge_center_across_left 1"/>
+		<neighbor left="triple_center 2" right="line_edge_center_across_right 3"/>
+		<neighbor left="triple_center 2" right="line_edge_center_across_left 2"/>
+
+		<!-- Q -->
+		<neighbor left="triple_center" right="double_across_center 1"/>
+		<neighbor left="triple_center" right="double_adjacent_center 1"/>
+		<neighbor left="triple_center" right="double_adjacent_center 2"/>
+		<neighbor left="triple_center" right="double_two_angles_narrow_left"/>
+		<neighbor left="triple_center" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="triple_center" right="double_two_angles_wide_left 2"/>
+		<neighbor left="triple_center" right="double_two_angles_wide_right 2"/>
+		<neighbor left="triple_center" right="line_center 1"/>
+		<neighbor left="triple_center" right="quad_center"/>
+		<neighbor left="triple_center" right="single_center 1"/>
+		<neighbor left="triple_center" right="triple_center 2"/>
+		<neighbor left="triple_center" right="triple_center 3"/>
+		<neighbor left="triple_center" right="triple_center"/>
+		<neighbor left="triple_center" right="line_edge_center_across_left 1"/>
+		<neighbor left="triple_center" right="line_edge_center_across_right 3"/>
+
+
+		<!-- R1 -->
+		<neighbor left="triple_diagonal" right="line_edge_double_adjacent 1"/>
+		<neighbor left="triple_diagonal" right="line_edge_triple 3"/>
+		<neighbor left="triple_diagonal" right="line_edge_triple"/>
+		<neighbor left="triple_diagonal" right="line_edge_quad"/>
+
+		<!-- R2 -->
+		<neighbor left="triple_diagonal 1" right="line_edge 3"/>
+		<neighbor left="triple_diagonal 1" right="line_edge_double_adjacent 3"/>
+		<neighbor left="triple_diagonal 1" right="line_edge_double_across"/>
+		<neighbor left="triple_diagonal 1" right="line_edge_triple 2"/>
+
+		<!-- R3 -->
+		<neighbor left="triple_diagonal 2" right="line_edge"/>
+		<neighbor left="triple_diagonal 2" right="line_edge_double_adjacent 2"/>
+		<neighbor left="triple_diagonal 2" right="line_edge_double_across 1"/>
+		<neighbor left="triple_diagonal 2" right="line_edge_triple 1"/>
+
+		<!-- S -->
+		<neighbor left="line_edge" right="double_adjacent_center"/>
+		<neighbor left="line_edge" right="double_adjacent_center 3"/>
+		<neighbor left="line_edge" right="double_adjacent_diagonal 3"/>
+		<neighbor left="line_edge" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="line_edge" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="line_edge" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="line_edge" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="line_edge" right="double_two_angles_wide_left 3"/>
+		<neighbor left="line_edge" right="double_two_angles_wide_right 1"/>
+		<neighbor left="line_edge" right="line_center"/>
+		<neighbor left="line_edge" right="single_center"/>
+		<neighbor left="line_edge" right="single_center 2"/>
+		<neighbor left="line_edge" right="single_center 3"/>
+		<neighbor left="line_edge" right="single_diagonal"/>
+		<neighbor left="line_edge" right="single_diagonal 3"/>
+		<neighbor left="line_edge" right="solid_stars"/>
+		<neighbor left="line_edge" right="solid"/>
+		<neighbor left="line_edge" right="triple_center 1"/>
+		<neighbor left="line_edge" right="line_edge 2"/>
+		<neighbor left="line_edge" right="line_edge 1"/>
+		<neighbor left="line_edge" right="line_edge_double_adjacent 3"/>
+		<neighbor left="line_edge" right="line_edge_center_across_left 2"/>
+		<neighbor left="line_edge" right="line_edge_center_across_right 2"/>
+
+		<!-- S1 -->
+		<neighbor left="line_edge 1" right="double_across_diagonal"/>
+		<neighbor left="line_edge 1" right="double_adjacent_diagonal 2"/>
+		<neighbor left="line_edge 1" right="double_two_angles_narrow_right"/>
+		<neighbor left="line_edge 1" right="double_two_angles_wide_left 1"/>
+		<neighbor left="line_edge 1" right="double_two_angles_wide_right"/>
+		<neighbor left="line_edge 1" right="line_diagonal"/>
+		<neighbor left="line_edge 1" right="single_diagonal 2"/>
+		<neighbor left="line_edge 1" right="triple_diagonal 3"/>
+
+		<!-- S2 -->
+		<neighbor left="line_edge 2" right="double_across_diagonal 1"/>
+		<neighbor left="line_edge 2" right="double_adjacent_diagonal"/>
+		<neighbor left="line_edge 2" right="double_two_angles_narrow_left 3"/>
+		<neighbor left="line_edge 2" right="double_two_angles_wide_left"/>
+		<neighbor left="line_edge 2" right="double_two_angles_wide_right 3"/>
+		<neighbor left="line_edge 2" right="line_diagonal 1"/>
+		<neighbor left="line_edge 2" right="single_diagonal 1"/>
+		<neighbor left="line_edge 2" right="triple_diagonal"/>
+
+		<!-- S3 -->
+		<neighbor left="line_edge 3" right="double_adjacent_center"/>
+		<neighbor left="line_edge 3" right="double_adjacent_center 3"/>
+		<neighbor left="line_edge 3" right="double_adjacent_diagonal 3"/>
+		<neighbor left="line_edge 3" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="line_edge 3" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="line_edge 3" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="line_edge 3" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="line_edge 3" right="double_two_angles_wide_left 3"/>
+		<neighbor left="line_edge 3" right="double_two_angles_wide_right 1"/>
+		<neighbor left="line_edge 3" right="line_center"/>
+		<neighbor left="line_edge 3" right="single_center"/>
+		<neighbor left="line_edge 3" right="single_center 2"/>
+		<neighbor left="line_edge 3" right="single_center 3"/>
+		<neighbor left="line_edge 3" right="single_diagonal"/>
+		<neighbor left="line_edge 3" right="single_diagonal 3"/>
+		<neighbor left="line_edge 3" right="solid_stars"/>
+		<neighbor left="line_edge 3" right="solid"/>
+		<neighbor left="line_edge 3" right="triple_center 1"/>
+		<neighbor left="line_edge 3" right="line_edge 2"/>
+		<neighbor left="line_edge 3" right="line_edge 1"/>
+		<neighbor left="line_edge 3" right="line_edge_double_adjacent 3"/>
+		<neighbor left="line_edge 3" right="line_edge_center_across_left 2"/>
+		<neighbor left="line_edge 3" right="line_edge_center_across_right 2"/>
+
+		<!-- T -->
+		<neighbor left="line_edge_double_adjacent 1" right="double_adjacent_center"/>
+		<neighbor left="line_edge_double_adjacent 1" right="double_adjacent_center 3"/>
+		<neighbor left="line_edge_double_adjacent 1" right="double_adjacent_diagonal 3"/>
+		<neighbor left="line_edge_double_adjacent 1" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="line_edge_double_adjacent 1" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="line_edge_double_adjacent 1" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="line_edge_double_adjacent 1" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="line_edge_double_adjacent 1" right="double_two_angles_wide_left 3"/>
+		<neighbor left="line_edge_double_adjacent 1" right="double_two_angles_wide_right 1"/>
+		<neighbor left="line_edge_double_adjacent 1" right="line_center"/>
+		<neighbor left="line_edge_double_adjacent 1" right="single_center"/>
+		<neighbor left="line_edge_double_adjacent 1" right="single_center 2"/>
+		<neighbor left="line_edge_double_adjacent 1" right="single_center 3"/>
+		<neighbor left="line_edge_double_adjacent 1" right="single_diagonal"/>
+		<neighbor left="line_edge_double_adjacent 1" right="single_diagonal 3"/>
+		<neighbor left="line_edge_double_adjacent 1" right="solid_stars"/>
+		<neighbor left="line_edge_double_adjacent 1" right="solid"/>
+		<neighbor left="line_edge_double_adjacent 1" right="triple_center 1"/>
+		<neighbor left="line_edge_double_adjacent 1" right="line_edge 2"/>
+		<neighbor left="line_edge_double_adjacent 1" right="line_edge 1"/>
+		<neighbor left="line_edge_double_adjacent 1" right="line_edge_double_adjacent 3"/>
+		<neighbor left="line_edge_double_adjacent 1" right="line_edge_center_across_left 2"/>
+		<neighbor left="line_edge_double_adjacent 1" right="line_edge_center_across_right 2"/>
+
+		<!-- T1 -->
+		<neighbor left="line_edge_double_adjacent 2" right="double_across_diagonal"/>
+		<neighbor left="line_edge_double_adjacent 2" right="double_adjacent_diagonal 2"/>
+		<neighbor left="line_edge_double_adjacent 2" right="double_two_angles_narrow_right"/>
+		<neighbor left="line_edge_double_adjacent 2" right="double_two_angles_wide_left 1"/>
+		<neighbor left="line_edge_double_adjacent 2" right="double_two_angles_wide_right"/>
+		<neighbor left="line_edge_double_adjacent 2" right="line_diagonal"/>
+		<neighbor left="line_edge_double_adjacent 2" right="single_diagonal 2"/>
+		<neighbor left="line_edge_double_adjacent 2" right="triple_diagonal 3"/>
+
+		<!-- T2 -->
+		<neighbor left="line_edge_double_adjacent 3" right="double_adjacent_diagonal 1"/>
+		<neighbor left="line_edge_double_adjacent 3" right="quad_diagonal"/>
+		<neighbor left="line_edge_double_adjacent 3" right="triple_diagonal 1"/>
+		<neighbor left="line_edge_double_adjacent 3" right="triple_diagonal 2"/>
+
+		<!-- T3 -->
+		<neighbor left="line_edge_double_adjacent" right="double_across_diagonal 1"/>
+		<neighbor left="line_edge_double_adjacent" right="double_adjacent_diagonal"/>
+		<neighbor left="line_edge_double_adjacent" right="double_two_angles_narrow_left 3"/>
+		<neighbor left="line_edge_double_adjacent" right="double_two_angles_wide_left"/>
+		<neighbor left="line_edge_double_adjacent" right="double_two_angles_wide_right 3"/>
+		<neighbor left="line_edge_double_adjacent" right="line_diagonal 1"/>
+		<neighbor left="line_edge_double_adjacent" right="single_diagonal 1"/>
+		<neighbor left="line_edge_double_adjacent" right="triple_diagonal"/>
+
+		<!-- U -->
+		<neighbor left="line_edge_double_across" right="double_across_diagonal"/>
+		<neighbor left="line_edge_double_across" right="double_adjacent_diagonal 2"/>
+		<neighbor left="line_edge_double_across" right="double_two_angles_narrow_right"/>
+		<neighbor left="line_edge_double_across" right="double_two_angles_wide_left 1"/>
+		<neighbor left="line_edge_double_across" right="double_two_angles_wide_right"/>
+		<neighbor left="line_edge_double_across" right="line_diagonal"/>
+		<neighbor left="line_edge_double_across" right="single_diagonal 2"/>
+		<neighbor left="line_edge_double_across" right="triple_diagonal 3"/>
+
+		<!-- U1 -->
+		<neighbor left="line_edge_double_across 1" right="double_across_diagonal 1"/>
+		<neighbor left="line_edge_double_across 1" right="double_adjacent_diagonal"/>
+		<neighbor left="line_edge_double_across 1" right="double_two_angles_narrow_left 3"/>
+		<neighbor left="line_edge_double_across 1" right="double_two_angles_wide_left"/>
+		<neighbor left="line_edge_double_across 1" right="double_two_angles_wide_right 3"/>
+		<neighbor left="line_edge_double_across 1" right="line_diagonal 1"/>
+		<neighbor left="line_edge_double_across 1" right="single_diagonal 1"/>
+		<neighbor left="line_edge_double_across 1" right="triple_diagonal"/>
+
+		<!-- V -->
+		<neighbor left="line_edge_triple 1" right="double_adjacent_diagonal 1"/>
+		<neighbor left="line_edge_triple 1" right="quad_diagonal"/>
+		<neighbor left="line_edge_triple 1" right="triple_diagonal 1"/>
+		<neighbor left="line_edge_triple 1" right="triple_diagonal 2"/>	
+
+		<!-- V1 -->
+		<neighbor left="line_edge_triple 2" right="double_adjacent_diagonal 1"/>
+		<neighbor left="line_edge_triple 2" right="quad_diagonal"/>
+		<neighbor left="line_edge_triple 2" right="triple_diagonal 1"/>
+		<neighbor left="line_edge_triple 2" right="triple_diagonal 2"/>
+
+		<!-- V2 -->
+		<neighbor left="line_edge_triple 3" right="double_across_diagonal 1"/>
+		<neighbor left="line_edge_triple 3" right="double_adjacent_diagonal"/>
+		<neighbor left="line_edge_triple 3" right="double_two_angles_narrow_left 3"/>
+		<neighbor left="line_edge_triple 3" right="double_two_angles_wide_left"/>
+		<neighbor left="line_edge_triple 3" right="double_two_angles_wide_right 3"/>
+		<neighbor left="line_edge_triple 3" right="line_diagonal 1"/>
+		<neighbor left="line_edge_triple 3" right="single_diagonal 1"/>
+		<neighbor left="line_edge_triple 3" right="triple_diagonal"/>
+
+		<!-- V3 -->
+		<neighbor left="line_edge_triple" right="double_across_diagonal"/>
+		<neighbor left="line_edge_triple" right="double_adjacent_diagonal 2"/>
+		<neighbor left="line_edge_triple" right="double_two_angles_narrow_right"/>
+		<neighbor left="line_edge_triple" right="double_two_angles_wide_left 1"/>
+		<neighbor left="line_edge_triple" right="double_two_angles_wide_right"/>
+		<neighbor left="line_edge_triple" right="line_diagonal"/>
+		<neighbor left="line_edge_triple" right="single_diagonal 2"/>
+		<neighbor left="line_edge_triple" right="triple_diagonal 3"/>
+
+		<!-- W -->
+		<neighbor left="line_edge_quad" right="double_adjacent_diagonal 1"/>
+		<neighbor left="line_edge_quad" right="quad_diagonal"/>
+		<neighbor left="line_edge_quad" right="triple_diagonal 1"/>
+		<neighbor left="line_edge_quad" right="triple_diagonal 2"/>
+
+		<!-- X -->
+		<neighbor left="line_edge_center_across_left 3" right="double_across_center 1"/>
+		<neighbor left="line_edge_center_across_left 3" right="double_adjacent_center 1"/>
+		<neighbor left="line_edge_center_across_left 3" right="double_adjacent_center 2"/>
+		<neighbor left="line_edge_center_across_left 3" right="double_two_angles_narrow_left"/>
+		<neighbor left="line_edge_center_across_left 3" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="line_edge_center_across_left 3" right="double_two_angles_wide_left 2"/>
+		<neighbor left="line_edge_center_across_left 3" right="double_two_angles_wide_right 2"/>
+		<neighbor left="line_edge_center_across_left 3" right="line_center 1"/>
+		<neighbor left="line_edge_center_across_left 3" right="quad_center"/>
+		<neighbor left="line_edge_center_across_left 3" right="single_center 1"/>
+		<neighbor left="line_edge_center_across_left 3" right="triple_center 2"/>
+		<neighbor left="line_edge_center_across_left 3" right="triple_center 3"/>
+		<neighbor left="line_edge_center_across_left 3" right="triple_center"/>
+		<neighbor left="line_edge_center_across_left 3" right="line_edge_center_across_left 1"/>
+		<neighbor left="line_edge_center_across_left 3" right="line_edge_center_across_right 3"/>
+
+
+		<!-- X1 -->
+		<neighbor left="line_edge_center_across_left" right="double_adjacent_center"/>
+		<neighbor left="line_edge_center_across_left" right="double_adjacent_center 3"/>
+		<neighbor left="line_edge_center_across_left" right="double_adjacent_diagonal 3"/>
+		<neighbor left="line_edge_center_across_left" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="line_edge_center_across_left" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="line_edge_center_across_left" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="line_edge_center_across_left" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="line_edge_center_across_left" right="double_two_angles_wide_left 3"/>
+		<neighbor left="line_edge_center_across_left" right="double_two_angles_wide_right 1"/>
+		<neighbor left="line_edge_center_across_left" right="line_center"/>
+		<neighbor left="line_edge_center_across_left" right="single_center"/>
+		<neighbor left="line_edge_center_across_left" right="single_center 2"/>
+		<neighbor left="line_edge_center_across_left" right="single_center 3"/>
+		<neighbor left="line_edge_center_across_left" right="single_diagonal"/>
+		<neighbor left="line_edge_center_across_left" right="single_diagonal 3"/>
+		<neighbor left="line_edge_center_across_left" right="solid_stars"/>
+		<neighbor left="line_edge_center_across_left" right="solid"/>
+		<neighbor left="line_edge_center_across_left" right="triple_center 1"/>
+		<neighbor left="line_edge_center_across_left" right="line_edge 2"/>
+		<neighbor left="line_edge_center_across_left" right="line_edge 1"/>
+		<neighbor left="line_edge_center_across_left" right="line_edge_double_adjacent 3"/>
+		<neighbor left="line_edge_center_across_left" right="line_edge_center_across_left 2"/>
+		<neighbor left="line_edge_center_across_left" right="line_edge_center_across_right 2"/>
+
+		<!-- X2 -->
+		<neighbor left="line_edge_center_across_left 1" right="double_two_angles_narrow_right 3"/>
+
+		<!-- X3 -->
+		<neighbor left="line_edge_center_across_left 2" right="double_across_diagonal 1"/>
+		<neighbor left="line_edge_center_across_left 2" right="double_adjacent_diagonal"/>
+		<neighbor left="line_edge_center_across_left 2" right="double_two_angles_narrow_left 3"/>
+		<neighbor left="line_edge_center_across_left 2" right="double_two_angles_wide_left"/>
+		<neighbor left="line_edge_center_across_left 2" right="double_two_angles_wide_right 3"/>
+		<neighbor left="line_edge_center_across_left 2" right="line_diagonal 1"/>
+		<neighbor left="line_edge_center_across_left 2" right="single_diagonal 1"/>
+		<neighbor left="line_edge_center_across_left 2" right="triple_diagonal"/>
+
+		<!-- Y -->
+		<neighbor left="line_edge_center_across_right 1" right="double_across_center 1"/>
+		<neighbor left="line_edge_center_across_right 1" right="double_adjacent_center 1"/>
+		<neighbor left="line_edge_center_across_right 1" right="double_adjacent_center 2"/>
+		<neighbor left="line_edge_center_across_right 1" right="double_two_angles_narrow_left"/>
+		<neighbor left="line_edge_center_across_right 1" right="double_two_angles_narrow_right 3"/>
+		<neighbor left="line_edge_center_across_right 1" right="double_two_angles_wide_left 2"/>
+		<neighbor left="line_edge_center_across_right 1" right="double_two_angles_wide_right 2"/>
+		<neighbor left="line_edge_center_across_right 1" right="line_center 1"/>
+		<neighbor left="line_edge_center_across_right 1" right="quad_center"/>
+		<neighbor left="line_edge_center_across_right 1" right="single_center 1"/>
+		<neighbor left="line_edge_center_across_right 1" right="triple_center 2"/>
+		<neighbor left="line_edge_center_across_right 1" right="triple_center 3"/>
+		<neighbor left="line_edge_center_across_right 1" right="triple_center"/>
+		<neighbor left="line_edge_center_across_right 1" right="line_edge_center_across_left 1"/>
+		<neighbor left="line_edge_center_across_right 1" right="line_edge_center_across_right 3"/>
+
+		<!-- Y1 -->
+		<neighbor left="line_edge_center_across_right 2" right="double_across_diagonal"/>
+		<neighbor left="line_edge_center_across_right 2" right="double_adjacent_diagonal 2"/>
+		<neighbor left="line_edge_center_across_right 2" right="double_two_angles_narrow_right"/>
+		<neighbor left="line_edge_center_across_right 2" right="double_two_angles_wide_left 1"/>
+		<neighbor left="line_edge_center_across_right 2" right="double_two_angles_wide_right"/>
+		<neighbor left="line_edge_center_across_right 2" right="line_diagonal"/>
+		<neighbor left="line_edge_center_across_right 2" right="single_diagonal 2"/>
+		<neighbor left="line_edge_center_across_right 2" right="triple_diagonal 3"/>
+
+		<!-- Y2 -->
+		<neighbor left="line_edge_center_across_right 3" right="double_two_angles_narrow_right 3"/>
+
+		<!-- Y3 -->
+		<neighbor left="line_edge_center_across_right" right="double_adjacent_center"/>
+		<neighbor left="line_edge_center_across_right" right="double_adjacent_center 3"/>
+		<neighbor left="line_edge_center_across_right" right="double_adjacent_diagonal 3"/>
+		<neighbor left="line_edge_center_across_right" right="double_two_angles_narrow_left 1"/>
+		<neighbor left="line_edge_center_across_right" right="double_two_angles_narrow_left 2"/>
+		<neighbor left="line_edge_center_across_right" right="double_two_angles_narrow_right 2"/>
+		<neighbor left="line_edge_center_across_right" right="double_two_angles_narrow_right 1"/>
+		<neighbor left="line_edge_center_across_right" right="double_two_angles_wide_left 3"/>
+		<neighbor left="line_edge_center_across_right" right="double_two_angles_wide_right 1"/>
+		<neighbor left="line_edge_center_across_right" right="line_center"/>
+		<neighbor left="line_edge_center_across_right" right="single_center"/>
+		<neighbor left="line_edge_center_across_right" right="single_center 2"/>
+		<neighbor left="line_edge_center_across_right" right="single_center 3"/>
+		<neighbor left="line_edge_center_across_right" right="single_diagonal"/>
+		<neighbor left="line_edge_center_across_right" right="single_diagonal 3"/>
+		<neighbor left="line_edge_center_across_right" right="solid_stars"/>
+		<neighbor left="line_edge_center_across_right" right="solid"/>
+		<neighbor left="line_edge_center_across_right" right="triple_center 1"/>
+		<neighbor left="line_edge_center_across_right" right="line_edge 2"/>
+		<neighbor left="line_edge_center_across_right" right="line_edge 1"/>
+		<neighbor left="line_edge_center_across_right" right="line_edge_double_adjacent 3"/>
+		<neighbor left="line_edge_double_across_right 2" right="line_edge_center_across_left 2"/>
+		<neighbor left="line_edge_center_across_right" right="line_edge_center_across_right 2"/>
+
+
+		<neighbor left="left" right="double_two_angles_narrow_left"/>
+		<neighbor left="double_two_angles_narrow_left" right="right"/>
+		
+		<neighbor left="top 3" right="double_two_angles_narrow_left 3"/>
+		<neighbor left="double_two_angles_narrow_left 3" right="bottom 3"/>
+
+
+		<neighbor left="left 0" right="right 0"/>
+		<neighbor left="left 1" right="top 1"/>
+		<neighbor left="left 2" right="right 2"/>
+		<neighbor left="left 3" right="bottom 3"/>
+
+		<neighbor left="right 0" right="left 0"/>
+		<neighbor left="right 3" right="bottom 3"/>
+		<neighbor left="right 1" right="top 1"/>
+		<neighbor left="right 2" right="left 2"/>
+
+		<neighbor left="top 0" right="top 0"/>
+		<neighbor left="top 1" right="left 1"/>
+		<neighbor left="top 1" right="right 1"/>
+		<neighbor left="top 2" right="top 2"/>
+		<neighbor left="top 3" right="bottom 3"/>
+
+		<neighbor left="bottom 0" right="bottom 0"/>
+		<neighbor left="bottom 1" right="top 1"/>
+		<neighbor left="bottom 2" right="bottom 2"/>
+		<neighbor left="bottom 3" right="left 3"/>
+		<neighbor left="bottom 3" right="right 3"/>
+		
+		
+		<!-- <neighbor left="top" right="bottom"/>
+		<neighbor left="top" right="bottom"/> -->
+<!-- 		<neighbor left="left" right="top 3"/>
+		<neighbor left="right" right="top 3"/>
+		<neighbor left="left" right="bottom 3"/>
+		<neighbor left="top 3" right="bottom 3"/>
+		<neighbor left="bottom" right="bottom"/>
+		<neighbor left="top" right="top"/>
+ -->
+
+
+
+
+	</neighbors>
+		<subsets>
+		<subset name="Standard">
+			<tile name="double_across_center" symmetry="I"/>
+			<tile name="double_across_diagonal" symmetry="\"/>
+			<tile name="double_adjacent_center" symmetry="L"/>
+			<tile name="double_adjacent_diagonal" symmetry="L"/>
+			<tile name="double_two_angles_narrow_left" symmetry="T"/>
+			<tile name="double_two_angles_narrow_right" symmetry="T"/>
+			<tile name="double_two_angles_wide_left" symmetry="L"/>
+			<tile name="double_two_angles_wide_right" symmetry="L"/>
+			<tile name="line_center" symmetry="I"/>
+			<tile name="line_diagonal" symmetry="\"/>
+			<tile name="quad_center" symmetry="X"/>
+			<tile name="quad_diagonal" symmetry="X"/>
+			<tile name="single_center" symmetry="T"/>
+			<tile name="single_diagonal" symmetry="\"/>
+			<tile name="solid_stars" symmetry="X"/>
+			<tile name="solid" symmetry="X"/>
+			<tile name="triple_center" symmetry="T"/>
+			<tile name="triple_diagonals" symmetry="L"/>
+			<tile name="line_edge" symmetry="L"/>
+			<tile name="line_edge_double_adjacent" symmetry="T"/>
+			<tile name="line_edge_double_across" symmetry="\"/>
+			<tile name="line_edge_triple" symmetry="L"/>
+			<tile name="line_edge_quad" symmetry="X"/>
+			<tile name="line_edge_center_across_left" symmetry="T"/>
+			<tile name="line_edge_center_across_right" symmetry="T"/>
+		</subset>
+		<subset name="Center">
+			<tile name="double_across_center" symmetry="I"/>
+			<tile name="double_adjacent_center" symmetry="L"/>
+			<tile name="line_center" symmetry="I"/>
+			<tile name="quad_center" symmetry="X"/>
+			<tile name="single_center" symmetry="T"/>
+			<tile name="solid_stars" symmetry="X"/>
+			<tile name="solid" symmetry="X"/>
+			<tile name="triple_center" symmetry="T"/>
+		</subset>
+		<subset name="Diagonal">
+			<tile name="double_across_diagonal" symmetry="\"/>
+			<tile name="double_adjacent_diagonal" symmetry="L"/>
+			<tile name="line_diagonal" symmetry="\"/>
+			<tile name="quad_diagonal" symmetry="X"/>
+			<tile name="single_diagonal" symmetry="\"/>
+			<tile name="solid_stars" symmetry="X"/>
+			<tile name="solid" symmetry="X"/>
+			<tile name="triple_diagonal" symmetry="L"/>
+			<tile name="line_edge" symmetry="L"/>
+			<tile name="line_edge_double_adjacent" symmetry="T"/>
+			<tile name="line_edge_double_across" symmetry="\"/>
+			<tile name="line_edge_triple" symmetry="L"/>
+			<tile name="line_edge_quad" symmetry="X"/>
+		</subset>
+		<subset name="Diagonal_single">
+			<tile name="single_diagonal" symmetry="L"/>
+			<tile name="solid_stars" symmetry="X"/>
+			<tile name="solid" symmetry="X"/>
+			<tile name="line_edge" symmetry="L"/>
+			<tile name="line_edge_double_adjacent" symmetry="T"/>
+		</subset>
+
+		<subset name="mixedAngle">
+			<tile name="double_two_angles_narrow_left" symmetry="L"/>
+			<tile name="double_two_angles_narrow_right" symmetry="L"/>
+			<!-- <tile name="double_two_angles_wide_left" symmetry="L"/> -->
+			<!-- <tile name="double_two_angles_wide_right" symmetry="L"/> -->
+			<tile name="line_edge_center_across_left" symmetry="T"/>
+			<tile name="line_edge_center_across_right" symmetry="T"/>
+			<tile name="line_center" symmetry="I"/>
+			<tile name="line_diagonal" symmetry="L"/>
+			<tile name="solid" symmetry="X"/>
+			<tile name="line_edge" symmetry="L"/>
+			<tile name="single_diagonal" symmetry="\"/>
+			<tile name="single_center" symmetry="T"/>
+
+
+			<!-- <tile name="line_edge_double_adjacent" symmetry="T"/> -->
+			<!-- <tile name="line_edge_double_across" symmetry="\"/> -->
+			<!-- <tile name="line_edge_triple" symmetry="L"/> -->
+			<!-- <tile name="line_edge_quad" symmetry="X"/> -->
+	
+		</subset>
+		<subset name="wide">
+			<tile name="double_two_angles_narrow_left" symmetry="L"/>
+			<tile name="double_two_angles_narrow_right" symmetry="L"/>
+			<tile name="double_two_angles_wide_left" symmetry="L"/>
+			<tile name="double_two_angles_wide_right" symmetry="L"/>
+			<tile name="line_edge_center_across_left" symmetry="T"/>
+			<tile name="line_edge_center_across_right" symmetry="T"/>
+			<tile name="line_center" symmetry="I"/>
+			<tile name="line_diagonal" symmetry="L"/>
+			<tile name="solid" symmetry="X"/>
+			<tile name="line_edge" symmetry="L"/>
+			<tile name="single_diagonal" symmetry="\"/>
+			<tile name="single_center" symmetry="T"/>
+
+		</subset>
+		<subset name="test">
+			<tile name="left" symmetry="L"/>
+			<tile name="right" symmetry="L"/>
+			<tile name="top" symmetry="L"/>
+			<tile name="bottom" symmetry="L"/>
+			<tile name="double_two_angles_narrow_left" symmetry="T"/>
+			<!-- <tile name="corner" symmetry="X"/> -->
+
+		</subset>
+	</subsets>
+</set>

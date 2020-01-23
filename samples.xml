@@ -1,0 +1,10 @@
+<samples>
+	<simpletiled name="Constellation" width="100" height="60" periodic="True" subset="Standard" textOutput="True"/>
+	<simpletiled name="Constellation" width="100" height="60" periodic="True" subset="Center" textOutput="True"/>
+	<simpletiled name="Constellation" width="100" height="60" periodic="True" subset="Diagonal" textOutput="True"/>
+	<simpletiled name="Constellation" width="10" height="10" periodic="True" subset="Diagonal_single" textOutput="True"/>
+	<simpletiled name="Constellation" width="16" height="5" periodic="True" subset="mixedAngle" textOutput="True"/>
+	<simpletiled name="Constellation" width="10" height="10" periodic="True" subset="wide" textOutput="True"/>
+
+
+</samples>
